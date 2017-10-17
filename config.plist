@@ -679,12 +679,6 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x3E7</string>
-		<key>MLB</key>
-		<string>C021113017EDMMKA6</string>
-		<key>ROM</key>
-		<data>
-		cM1g2pYm
-		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
