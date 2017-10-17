@@ -1,4 +1,4 @@
-##G3420-GT630-ALC662 
+##Desktop
 
 -CPU: G3420
 
